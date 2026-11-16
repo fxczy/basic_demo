@@ -1,0 +1,28 @@
+# C/C++
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.log
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# Qt
+*.pro.user
+*.pro.user.*
+*.qtcreator.*
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.bak
